@@ -3,4 +3,4 @@ I'm Anthony Zerpa, I'm a full stack developer, and trying to do my best everyday
 
 If you want to know more about here's my portfolio
 
-(Portofolio)[https://anthony.breadriuss.store]
+[Portofolio](https://anthony.breadriuss.store)
