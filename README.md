@@ -12,14 +12,11 @@ Here you can find some projects, that I'm currently working, and some personal i
 
 ```
 https://anthony.breadriuss.store
-
 ```
 
 And here's my email.
-
 ```
 zerpaanthony.wx@breadriuss.store
-
 ```
 
 
